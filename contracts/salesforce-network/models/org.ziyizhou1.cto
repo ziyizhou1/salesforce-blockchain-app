@@ -40,3 +40,7 @@ event SampleEvent {
   o String oldValue
   o String newValue
 }
+
+asset TestAsset extends SampleAsset {
+
+}
